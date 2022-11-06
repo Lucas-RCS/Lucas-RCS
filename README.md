@@ -1,6 +1,6 @@
 ### Olá eu sou o Lucas Ribeiro, futuro desenvolvedor de sistema!!! 👋
-- 📜 Atualmente aluno em Análise e Desenvolvimento de Sistemas
-- 😊 Tenho 20 anos
+- 💻 Atualmente cursando Análise e Desenvolvimento de Sistemas
+- 😊 Estudando HTML,CSS,PHP, JAVA e Desenho Digital
 
 
 <div align="center">
