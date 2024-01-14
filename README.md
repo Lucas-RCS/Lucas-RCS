@@ -1,6 +1,7 @@
 ### Olá! Eu sou Lucas Ribeiro
-- 👨‍💻 Futuro desenvolvedor de sistemas!!!
-- 💻 Atualmente cursando Análise e Desenvolvimento de Sistemas
+
+- 💻 Atualmente cursando Análise e Desenvolvimento de Sistemas 6/6
+- 💼 Trabalhando como **Desenvolvedor Jr Front-End** na <a href="https://www.plusintelligence.com.br">Plus Intelligence</a>
 - 😊 Estudando <b>HTML</b>, <b>CSS</b>, <b>React</b>, <b>TypeScript<b/> e <b>Arte Digital</b>
 
 
@@ -9,14 +10,25 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-RCS&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-RCS&layout=compact&langs_count=7&theme=radical"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  <h4><b>Você pode me encontrar em:</b></h4>
+
+
+**:rocket: &nbsp; Ferramentas de Desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Trello](https://img.shields.io/badge/-TRELLO-F4F2F6?style=for-the-badge&logo=trello&logoColor=69A5DC)
+![GitHub](https://img.shields.io/badge/-GITHUB-363636?style=for-the-badge&logo=GITHUB&logoColor=WHITE)
+![Notion](https://img.shields.io/badge/-NOTION-FFF?style=for-the-badge&logo=notion&logoColor=black)
  
+  **✏️ &nbsp; Linguagens/Bibliotecas Utilizadas :**
 <div> 
-  <a href="https://www.instagram.com/lucasribeiro_26" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-ribeiro-261790242/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/lucas-ribeiro-261790242/" target="_blank"><img src="https://img.shields.io/badge/-React-0C94D9?style=for-the-badge&logo=React&logoColor=white" target="_blank"></a> 
+ <a href="" target="_blank"><img src="https://img.shields.io/badge/-HTML5-2E2E2E?style=for-the-badge&logo=html5&logoColor=DB6731" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-CSS3-0E3245?style=for-the-badge&logo=css3&logoColor=2EA9E5" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-DCCE1A?style=for-the-badge&logo=javascript&logoColor=262100" target="_blank"></a>
+   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-React-0C94D9?style=for-the-badge&logo=React&logoColor=white" target="_blank"></a> 
+</div>
+
+<h4><b>Você pode me encontrar em:</b></h4>
+<div>
+   <a href="https://www.linkedin.com/in/lucas-ribeiro-261790242/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://www.instagram.com/lucasribeiro_26" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
