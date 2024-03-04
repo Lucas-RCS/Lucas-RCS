@@ -15,7 +15,7 @@
 <h4><b>:rocket: &nbsp; Ferramentas de Desenvolvimento</b></h4>
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![Trello](https://img.shields.io/badge/-TRELLO-F4F2F6?style=for-the-badge&logo=trello&logoColor=69A5DC)
+![Trello](https://img.shields.io/badge/-TRELLO-69A5DC?style=for-the-badge&logo=trello&logoColor=F4F2F6)
 ![GitHub](https://img.shields.io/badge/-GITHUB-363636?style=for-the-badge&logo=GITHUB&logoColor=WHITE)
 ![Notion](https://img.shields.io/badge/-NOTION-FFF?style=for-the-badge&logo=notion&logoColor=black)
 ![Obsidian](https://img.shields.io/badge/-OBSIDIAN-6f1bc8?style=for-the-badge&logo=obsidian&logoColor=white)
