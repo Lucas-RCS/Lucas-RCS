@@ -18,6 +18,7 @@
 ![Trello](https://img.shields.io/badge/-TRELLO-F4F2F6?style=for-the-badge&logo=trello&logoColor=69A5DC)
 ![GitHub](https://img.shields.io/badge/-GITHUB-363636?style=for-the-badge&logo=GITHUB&logoColor=WHITE)
 ![Notion](https://img.shields.io/badge/-NOTION-FFF?style=for-the-badge&logo=notion&logoColor=black)
+![Obsidian](https://img.shields.io/badge/-OBSIDIAN-6f1bc8?style=for-the-badge&logo=obsidian&logoColor=white)
  
   <h4><b>✏️ &nbsp; Linguagens/Bibliotecas Utilizadas</b></h4>
 <div> 
