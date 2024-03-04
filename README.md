@@ -25,7 +25,8 @@
  <a href="" target="_blank"><img src="https://img.shields.io/badge/-HTML5-2E2E2E?style=for-the-badge&logo=html5&logoColor=DB6731" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-CSS3-0E3245?style=for-the-badge&logo=css3&logoColor=2EA9E5" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-DCCE1A?style=for-the-badge&logo=javascript&logoColor=262100" target="_blank"></a>
-   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-React-3e7de6?style=for-the-badge&logo=React&logoColor=000012" target="_blank"></a> 
+   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-React-3e7de6?style=for-the-badge&logo=React&logoColor=white" target="_blank"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-React Native-3e7de6?style=for-the-badge&logo=React&logoColor=white" target="_blank"></a>
 </div>
 
 <h4><b>:earth_americas: &nbsp;Você pode me encontrar em:</b></h4>
