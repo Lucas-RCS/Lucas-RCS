@@ -19,6 +19,7 @@
 ![GitHub](https://img.shields.io/badge/-GITHUB-363636?style=for-the-badge&logo=GITHUB&logoColor=WHITE)
 ![Notion](https://img.shields.io/badge/-NOTION-FFF?style=for-the-badge&logo=notion&logoColor=black)
 ![Obsidian](https://img.shields.io/badge/-OBSIDIAN-6f1bc8?style=for-the-badge&logo=obsidian&logoColor=white)
+![Figma](https://img.shields.io/badge/-FIGMA-232323?style=for-the-badge&logo=FIGMA&logoColor=white)
  
   <h4><b>✏️ &nbsp; Linguagens/Bibliotecas Utilizadas</b></h4>
 <div> 
@@ -26,7 +27,7 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-CSS3-0E3245?style=for-the-badge&logo=css3&logoColor=2EA9E5" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-DCCE1A?style=for-the-badge&logo=javascript&logoColor=262100" target="_blank"></a>
    <a href="#" target="_blank"><img src="https://img.shields.io/badge/-React-3e7de6?style=for-the-badge&logo=React&logoColor=white" target="_blank"></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/-React Native-3e7de6?style=for-the-badge&logo=React&logoColor=white" target="_blank"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-React Native-3467bc?style=for-the-badge&logo=React&logoColor=white" target="_blank"></a>
 </div>
 
 <h4><b>:earth_americas: &nbsp;Você pode me encontrar em:</b></h4>
