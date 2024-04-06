@@ -1,7 +1,6 @@
 ### Olá! Eu sou Lucas Ribeiro
 
 - 💻 Atualmente cursando Análise e Desenvolvimento de Sistemas 6/6
-- 💼 Trabalhando como **Desenvolvedor Jr Front-End** na <a href="https://www.plusintelligence.com.br">Plus Intelligence</a>
 - 😊 Estudando <b>HTML</b>, <b>CSS</b>, <b>React</b>, <b>TypeScript<b/> e <b>Arte Digital</b>
 
 
