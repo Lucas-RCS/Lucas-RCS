@@ -1,7 +1,7 @@
 ### Olá! Eu sou Lucas Ribeiro
 
-- 🎓 Graduado no curso de Análise e Desenvolvimento de Sistemas 6/6
-- 👨🏽‍💻 Trabalhando como Desenvolvedor Web na <a href="https://erpmed.com.br"><b>ERPMed</b></a>
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas 6/6
+- 👨🏽‍💻 Trabalhando como Lider e Desenvolvedor Web Front-End na <a href="https://erpmed.com.br"><b>ERPMed</b></a>
 - 😊 Estudando <b>HTML</b>, <b>CSS</b>, <b>React</b>, <b>TypeScript<b/> e <b>Arte Digital</b>
 
 
