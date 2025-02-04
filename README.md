@@ -2,7 +2,7 @@
 
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas
 - 👨🏽‍💻 Trabalhando como Líder e Desenvolvedor Web Front-End na <a href="https://erpmed.com.br"><b>ERPMed</b></a>
-- 😊 Estudando <b>HTML</b>, <b>CSS</b>, <b>React</b>, <b>TypeScript<b/> e <b>Arte Digital</b>
+- 😊 Estudando <b>React</b>, <b>React Native<b/>, <b>Laravel Blade</b>, e <b>Arte Digital</b>
 
 
 <div align="center">
