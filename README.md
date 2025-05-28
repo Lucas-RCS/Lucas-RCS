@@ -16,9 +16,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![Trello](https://img.shields.io/badge/-TRELLO-1b8ac8?style=for-the-badge&logo=trello&logoColor=F4F2F6)
 ![GitHub](https://img.shields.io/badge/-GITHUB-363636?style=for-the-badge&logo=GITHUB&logoColor=WHITE)
-![Notion](https://img.shields.io/badge/-NOTION-FFF?style=for-the-badge&logo=notion&logoColor=black)
-![Obsidian](https://img.shields.io/badge/-OBSIDIAN-6f1bc8?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Figma](https://img.shields.io/badge/-FIGMA-232323?style=for-the-badge&logo=FIGMA&logoColor=white)
+![ClickUp](https://img.shields.io/badge/-CLICKUP-232323?style=for-the-badge&logo=CLICKUP)
  
   <h4><b>✏️ &nbsp; Linguagens/Bibliotecas Utilizadas</b></h4>
 <div> 
