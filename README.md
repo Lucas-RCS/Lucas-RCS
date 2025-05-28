@@ -1,8 +1,7 @@
 ### Olá! Eu sou Lucas Ribeiro
 
-- 🎓 Graduado em Análise e Desenvolvimento de Sistemas
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas pela <b>Fatec Cruzeiro - Prof. Waldomiro May</b>
 - 👨🏽‍💻 Trabalhando como Desenvolvedor Web Front-End
-- 😊 Estudando <b>React</b>, <b>React Native<b/>, <b>Laravel Blade</b> e <b>Arte Digital</b>
 
 
 <div align="center">
