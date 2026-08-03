@@ -19,8 +19,8 @@ jobs:
         with:
           github_user_name: Lucas-RCS
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=#a98aff&color_dots=#2d1f3d,#4a2f6b,#603f80,#734a99,#8654b3&color_empty=#222222
+            dist/github-snake-dark.svg?color_snake=#a98aff&color_dots=#2d1f3d,#4a2f6b,#603f80,#734a99,#8654b3&color_empty=#222222
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
